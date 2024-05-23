@@ -1,6 +1,6 @@
 public class Cliente {
 
-    //Atributos
+    ///Atributos
 
     private int idCliente;
 
